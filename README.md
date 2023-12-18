@@ -1,3 +1,5 @@
+java -Xmx1024M -Xms1024M -jar paper-1.8.8.jar nogui
+
 # Backup Of EaglerCraft 1.8
 ## Repl includes:
 ## Web Port Of Client
